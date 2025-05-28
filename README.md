@@ -29,3 +29,6 @@ A simple command-line Task Manager project built using Python. It helps users ad
 3.db.py: Manages the database setup and connections
 
 4.tasks.db: The SQLite database file that stores your tasks
+
+## License
+This project is licensed under the [MIT License](LICENSE)
