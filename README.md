@@ -23,6 +23,9 @@ A simple command-line Task Manager project built using Python. It helps users ad
    
 ## File Descriptions
 1.main.py: Contains the main menu and user interaction loop
+
 2.crud.py: Handles Create, Read, Update, Delete operations
+
 3.db.py: Manages the database setup and connections
+
 4.tasks.db: The SQLite database file that stores your tasks
